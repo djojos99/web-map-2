@@ -1,0 +1,28 @@
+body{ background-image: url('../ressources/backimg.jpg');
+    height: 100%;
+    background-size: cover;                        
+}
+body { margin: 0 auto;
+}  
+h1 { 
+    color: rgb(129, 6, 16);
+} 
+ul { 
+    list-style: none;
+}  
+
+.block { position: relative;
+    /*background-color: teal;*/
+    margin: 0 auto;
+    height: 300px;
+    width: 300px;
+    color: rgb(112, 4, 4);
+    font-size: 20px;
+    font-weight: bold;}
+
+.click:hover{ background-color: tomato;}
+.click { border-radius: 80px;}
+.click { position: relative; }  
+.b { 
+    display: block;
+}

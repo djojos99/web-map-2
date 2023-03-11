@@ -1,0 +1,33 @@
+body{ background-image: url('../ressources/backimg.jpg');
+      height: 100%;
+      background-size: cover;                        
+}     
+
+.click:hover{ background-color: tomato;}
+.click { border-radius: 80px;}
+.img {
+      border-radius: 80px;
+}
+
+.block { position: relative;
+         /*background-color: teal;*/
+         margin: 0 auto;
+         height: 300px;
+         width: 300px;
+         color: rgb(196, 189, 189);
+         font-size: 20px;
+         font-weight: bold;
+}
+h1 { text-align: center;
+}
+
+.tab {
+      width: 50%;
+      margin: 0 auto;
+      text-align: center;
+}
+.tab1 {
+       width: 50%;
+       margin: 0 auto;
+       text-align: center;
+}
